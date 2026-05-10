@@ -64,6 +64,7 @@ git clone --depth=1 https://github.com/tty228/luci-app-wechatpush package/luci-a
 git clone --depth=1 https://github.com/destan19/OpenAppFilter.git package/OpenAppFilter
 git clone --depth=1 https://github.com/laipeng668/luci-app-gecoosac package/luci-app-gecoosac
 git clone --depth=1 https://github.com/NONGFAH/luci-app-athena-led package/luci-app-athena-led
+git clone --depth=1 https://github.com/nikkinikki-org/OpenWrt-nikki.git packag/OpenWrt-nikki
 chmod +x package/luci-app-athena-led/root/etc/init.d/athena_led package/luci-app-athena-led/root/usr/sbin/athena-led
 
 ### PassWall & OpenClash ###
